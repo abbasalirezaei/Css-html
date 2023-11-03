@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    border: 1px solid black;
+    padding-left: 5%;
+    padding-top: 5px;
+}
+
+p {
+    background-color: bisque;
+    padding: 10px 10px 10px 10px;
+    border: 2px black solid;
+    margin: 100px;
+}
+
+.outer {border: 1px solid black;}
+.box{
+    color:white;
+    background-color: blueviolet;
+    padding: 10px 6px; 
+    /* width: calc(80% - 30px); */
+    border: 2px solid black;
+    margin: 4px;
+}
+
+.outer h2,h3{
+    color: red;
+    border:2px solid black;
+    margin-left: 4px;
+    margin-right: 5px;
+    padding: 6px 10px 6px 6px; 
+    border-radius: 2rch;
+}
